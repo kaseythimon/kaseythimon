@@ -1,6 +1,6 @@
 # Hi, I'm Kasey
 
-Currently working with:
+USA solo developer. Currently working with:
 
 - Python
 - Google Cloud / Vertex AI
